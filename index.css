@@ -1,5 +1,5 @@
 body {
-    background-image: url("/Images/vinylspin.jpg");
+    background-image: url("vinylspin.jpg");
     background-size: cover;
     background-repeat: no-repeat;
     font-family: Oxygen, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
